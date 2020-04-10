@@ -11353,7 +11353,7 @@ main.big {
 }
 
 .text-orange {
-    color: #ffffff;
+    color: #f58220;
 }
 
 .text-red {
@@ -12486,7 +12486,7 @@ input[type="reset"] {
 }
 
 .checkbox input+label:hover {
-    color: #ffffff;
+    color: #f58220;
 }
 
 .checkbox input+label:before {
@@ -12556,7 +12556,7 @@ input[type="reset"] {
 }
 
 .radio input[type="radio"]+label:hover {
-    color: #ffffff;
+    color: #f58220;
 }
 
 .radio input[type="radio"]+label:before {
@@ -12760,7 +12760,7 @@ header .header-wrap {
 header .btn-showmenu {
     width: 36px;
     height: 36px;
-    border: 1px solid #ffffff;
+    border: 1px solid #f58220;
     display: -webkit-box;
     display: -webkit-flex;
     display: -moz-flex;
@@ -12768,7 +12768,7 @@ header .btn-showmenu {
     display: flex;
     justify-content: center;
     align-items: center;
-    color: #ffffff;
+    color: #f58220;
     margin: 12px 0 12px 10px;
     border-radius: 3px;
     display: none;
@@ -12953,11 +12953,11 @@ header .menu ul.menu-link>li>a {
 }
 
 header .menu ul.menu-link>li:hover>a {
-    color: #ffffff;
+    color: #f58220;
 }
 
 header .menu ul.menu-link>li.active>a {
-    color: #ffffff;
+    color: #f58220;
 }
 
 header .hotline {
@@ -12973,7 +12973,7 @@ header .hotline {
 }
 
 header .hotline a {
-    color: #ffffff;
+    color: #f58220;
     font-weight: 700;
     font-size: 0.9375rem;
 }
@@ -13011,7 +13011,7 @@ header .search .btn-search {
     display: flex;
     justify-content: center;
     align-items: center;
-    background: #ffffff;
+    background: #f58220;
     color: #fff;
     position: absolute;
     top: 0;
@@ -13074,7 +13074,7 @@ header .search .searchbox input {
 header .search .searchbox .searchbutton {
     width: 36px;
     height: 36px;
-    background: #ffffff;
+    background: #f58220;
     color: #fff;
     display: -webkit-box;
     display: -webkit-flex;
@@ -13190,7 +13190,7 @@ header .search .searchbox .searchbutton {
     width: 16px;
     height: 16px;
     background: none;
-    border: 3px solid #ffffff;
+    border: 3px solid #f58220;
     -webkit-transition: all, 0.5s;
     -khtml-transition: all, 0.5s;
     -moz-transition: all, 0.5s;
@@ -13217,7 +13217,7 @@ header .search .searchbox .searchbutton {
 }
 
 .home-banner .slick-dots li.slick-active {
-    background: #ffffff;
+    background: #f58220;
 }
 
 .home-banner .item {
@@ -13461,7 +13461,7 @@ header .search .searchbox .searchbutton {
     .home-tab li .nav-link:hover,
     .home-tab .nav-item a:hover,
     .home-tab .nav-item .nav-link:hover {
-        background: #ffffff;
+        background: #f58220;
         color: #fff;
     }
 }
@@ -13474,7 +13474,7 @@ header .search .searchbox .searchbutton {
 .home-tab .nav-item a.mPS2id-highlight,
 .home-tab .nav-item .nav-link.active,
 .home-tab .nav-item .nav-link.mPS2id-highlight {
-    background: #ffffff;
+    background: #f58220;
     color: #fff;
 }
 
@@ -13482,7 +13482,7 @@ header .search .searchbox .searchbutton {
 .home-tab li.active .nav-link,
 .home-tab .nav-item.active a,
 .home-tab .nav-item.active .nav-link {
-    background: #ffffff;
+    background: #f58220;
     color: #fff;
 }
 
@@ -13609,7 +13609,7 @@ footer .footer-col {
 footer .footer-title,
 footer .module-title {
     font-size: 1rem;
-    color: #ffffff;
+    color: #f58220;
     font-weight: 600;
     text-transform: uppercase;
     margin-bottom: 10px;
@@ -13644,7 +13644,7 @@ footer .about-us ul li {
 }
 
 footer .about-us ul li a:hover {
-    color: #ffffff;
+    color: #f58220;
 }
 
 footer .subscribe-wrap .subscribefrm {
@@ -13683,10 +13683,10 @@ footer .subscribe-wrap input[type="submit"] {
     width: auto;
     height: 34px;
     color: #fff;
-    background: #ffffff;
+    background: #f58220;
     display: inline-block;
     line-height: 34px;
-    background: #ffffff;
+    background: #f58220;
     color: #fff;
 }
 
@@ -13697,7 +13697,7 @@ footer .subscribe-wrap input[type="submit"]:before {
 }
 
 footer .footer-bottom {
-    background: #ffffff;
+    background: #f58220;
     padding: 15px 0;
 }
 
@@ -13809,7 +13809,7 @@ footer .footer-nav a+a {
 
 .home-title {
     font-weight: 700;
-    color: #ffffff;
+    color: #f58220;
     font-size: 2.25rem;
     line-height: 1.3;
     text-transform: uppercase;
@@ -13883,7 +13883,7 @@ footer .footer-nav a+a {
     line-height: 1.3;
     font-weight: 700;
     text-transform: uppercase;
-    color: #ffffff;
+    color: #f58220;
     margin-bottom: 30px;
 }
 
@@ -13958,7 +13958,7 @@ footer .footer-nav a+a {
 .small-title {
     font-size: 1.375rem;
     font-weight: 700;
-    color: #ffffff;
+    color: #f58220;
     margin-bottom: 10px;
 }
 
@@ -13995,7 +13995,7 @@ footer .footer-nav a+a {
 }
 
 .hot-news .news-col:hover {
-    background: #ffffff;
+    background: #f58220;
     box-shadow: 0px 5px 10px rgba(0, 0, 0, 0.1);
 }
 
@@ -14090,7 +14090,7 @@ footer .footer-nav a+a {
 }
 
 .home-project .btn-viewmore {
-    color: #ffffff;
+    color: #f58220;
     font-size: 0.9375rem;
 }
 
@@ -14127,7 +14127,7 @@ footer .footer-nav a+a {
 }
 
 .hot-project .project-col:hover figure figcaption .project-name a {
-    color: #ffffff;
+    color: #f58220;
     background: linear-gradient(rgba(0, 0, 0, 0), black);
 }
 
@@ -14222,7 +14222,7 @@ footer .footer-nav a+a {
 }
 
 .video-list .video-col:hover figure figcaption .video-name {
-    color: #ffffff;
+    color: #f58220;
 }
 
 .video-list .video-col:hover figure figcaption .video-name:before {
@@ -14265,7 +14265,7 @@ footer .footer-nav a+a {
 
 .video-list .video-col figure figcaption .video-name:before {
     content: '\f04b';
-    background: #ffffff;
+    background: #f58220;
     width: 60px;
     height: 60px;
     color: #fff;
@@ -14500,7 +14500,7 @@ footer .footer-nav a+a {
     width: 12px;
     height: 12px;
     border-radius: 50px;
-    border: 2px solid #ffffff;
+    border: 2px solid #f58220;
     cursor: pointer;
 }
 
@@ -14509,7 +14509,7 @@ footer .footer-nav a+a {
 }
 
 .award-slide .slick-dots li.slick-active {
-    background: #ffffff;
+    background: #f58220;
 }
 
 .award-slide .slick-dots li button {
@@ -14710,7 +14710,7 @@ footer .footer-nav a+a {
 }
 
 .about-section1 .quote-content::-webkit-scrollbar-thumb {
-    background-color: #ffffff;
+    background-color: #f58220;
 }
 
 .about-section1 .quote-content .quote-title {
@@ -14747,7 +14747,7 @@ footer .footer-nav a+a {
 }
 
 .about-section3 .service-col figure figcaption .service-name {
-    background: #ffffff;
+    background: #f58220;
     height: 60px;
     display: -webkit-box;
     display: -webkit-flex;
@@ -14882,7 +14882,7 @@ footer .footer-nav a+a {
     content: '';
     display: block;
     height: 3px;
-    background: #ffffff;
+    background: #f58220;
     position: absolute;
     right: 0;
     bottom: 9px;
@@ -14927,7 +14927,7 @@ footer .footer-nav a+a {
     height: 18px;
     border-radius: 50px;
     border: 3px solid #fff;
-    background: #ffffff;
+    background: #f58220;
 }
 
 .history-wrap .history-year .item .year:after {
@@ -14957,17 +14957,17 @@ footer .footer-nav a+a {
 }
 
 .history-wrap .history-year .item .year:hover {
-    color: #ffffff;
+    color: #f58220;
 }
 
 .history-wrap .history-year .item.slick-current .year {
-    background: #ffffff;
+    background: #f58220;
     color: #fff;
     font-weight: 600;
 }
 
 .history-wrap .history-year .item.slick-current .year:after {
-    border-top-color: #ffffff;
+    border-top-color: #f58220;
 }
 
 .history-wrap .history-event {
@@ -14985,7 +14985,7 @@ footer .footer-nav a+a {
     font-size: 3rem;
     line-height: 1;
     font-weight: 700;
-    color: #ffffff;
+    color: #f58220;
     margin-bottom: 25px;
 }
 
@@ -15683,7 +15683,7 @@ footer .footer-nav a+a {
 .project-section7 input[type="submit"],
 .project-section8 input[type="submit"],
 .project-section9 input[type="submit"] {
-    background: #ffffff;
+    background: #f58220;
     font-size: 0.875rem;
     line-height: 16px;
     font-weight: 600;
@@ -15766,7 +15766,7 @@ footer .footer-nav a+a {
 }
 
 .contact-page .contact-info::-webkit-scrollbar-thumb {
-    background-color: #ffffff;
+    background-color: #f58220;
     border: none;
 }
 
@@ -15774,7 +15774,7 @@ footer .footer-nav a+a {
     font-size: 0.875rem;
     text-transform: uppercase;
     font-weight: 600;
-    color: #ffffff;
+    color: #f58220;
     margin-bottom: 20px;
 }
 
@@ -15785,14 +15785,14 @@ footer .footer-nav a+a {
 }
 
 .contact-page .contact-info ul li .title {
-    color: #ffffff;
+    color: #f58220;
     font-size: 0.875rem;
     font-weight: 600;
 }
 
 .contact-page .contact-info ul li .btn-viewmap {
     font-size: 0.6875rem;
-    color: #ffffff;
+    color: #f58220;
 }
 
 .contact-page .contact-info ul li .btn-viewmap:after {
@@ -15843,7 +15843,7 @@ footer .footer-nav a+a {
 .contact-page .form-wrap textarea:focus {
     background: #fff;
     box-shadow: 0 0 0 0.2rem rgba(245, 130, 32, 0.5);
-    border-color: #ffffff;
+    border-color: #f58220;
 }
 
 .contact-page .form-wrap textarea {
@@ -15857,7 +15857,7 @@ footer .footer-nav a+a {
 }
 
 .contact-page .form-wrap input[type="submit"] {
-    background: #ffffff;
+    background: #f58220;
     font-size: 0.875rem;
     line-height: 16px;
     font-weight: 600;
@@ -16135,7 +16135,7 @@ footer .footer-nav a+a {
 .news-detail .news-name {
     font-size: 1.375rem;
     font-weight: 700;
-    color: #ffffff;
+    color: #f58220;
 }
 
 .news-detail .news-info {
@@ -16322,7 +16322,7 @@ footer .footer-nav a+a {
 }
 
 .career-section3 .career-table th {
-    background: #ffffff;
+    background: #f58220;
     font-size: 1rem;
     line-height: 20px;
     color: #fff;
@@ -16352,11 +16352,11 @@ footer .footer-nav a+a {
 }
 
 .career-section3 .career-table td a:hover {
-    color: #ffffff;
+    color: #f58220;
 }
 
 .career-section3 .career-table td .label {
-    background: #ffffff;
+    background: #f58220;
     color: #fff;
     padding: 0px 10px;
     line-height: 20px;
@@ -16436,7 +16436,7 @@ footer .footer-nav a+a {
     font-size: 0.9375rem;
     padding: 0px 20px;
     font-weight: 700;
-    background: #ffffff;
+    background: #f58220;
     color: #fff;
     text-transform: uppercase;
 }
@@ -16458,7 +16458,7 @@ footer .footer-nav a+a {
 .career-section5 .place-list .place-title {
     font-size: 1rem;
     font-weight: 700;
-    color: #ffffff;
+    color: #f58220;
     margin-bottom: 20px;
 }
 
@@ -16482,7 +16482,7 @@ footer .footer-nav a+a {
 .career-detail .career-name {
     font-size: 1.375rem;
     font-weight: 700;
-    color: #ffffff;
+    color: #f58220;
 }
 
 .career-detail .career-info {
@@ -16525,7 +16525,7 @@ footer .footer-nav a+a {
     font-weight: 700;
     color: #fff;
     line-height: 40px;
-    background: #ffffff;
+    background: #f58220;
     border-radius: 3px;
     text-transform: uppercase;
 }
@@ -16560,7 +16560,7 @@ footer .footer-nav a+a {
 }
 
 .other-job .job-list .job:hover .job-name {
-    color: #ffffff;
+    color: #f58220;
 }
 
 .career-frame {
@@ -16615,7 +16615,7 @@ footer .footer-nav a+a {
     text-transform: uppercase;
     margin-bottom: 15px;
     font-size: 0.875rem;
-    border-left: 3px solid #ffffff;
+    border-left: 3px solid #f58220;
     padding: 0 5px;
 }
 
@@ -16783,7 +16783,7 @@ footer .footer-nav a+a {
 .contact-page .form-wrap .apply-frm textarea:focus {
     background: #fff;
     box-shadow: 0 0 0 0.2rem rgba(245, 130, 32, 0.5);
-    border-color: #ffffff;
+    border-color: #f58220;
 }
 
 .apply-frm textarea {
@@ -16795,7 +16795,7 @@ footer .footer-nav a+a {
     line-height: 36px;
     padding: 0px 20px;
     border-radius: 3px;
-    background: #ffffff;
+    background: #f58220;
     color: #fff;
     float: right;
 }
